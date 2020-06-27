@@ -1,0 +1,30 @@
+1. Pendahuluan
+- tujuan penulisan (sudah)
+- ruang lingkup masalah (sudah) (perlu koreksi)
+- Informasi sistem (sudah) dibutuhkan koreksi
+- deskripsi umum dokumen (sudah)
+
+2. Kebutuhan sistem
+- deskripsi umum sistem (belum)
+- kebutuhan fungsional (sudah) tapi perlu ada koreksi
+- kebutuhan non-fungsional (sudah) perlu perbaikan
+
+3. Model Deskripsi Sistem
+- Diagram UML ( Sudah )
+- Use case Diagram ( Sudah )
+- Class Diagram
+- Activity Diagram
+- Sequence Diagram
+- Block Diagram
+- Flowchart
+- ERD ( Sudah )
+- TRD ( Sudah )
+- DDS
+
+4. implementasi
+- kode program
+- output
+- GUI
+
+5. Penutup
+- kesimpulan
